@@ -1,2 +1,2 @@
-web: gunicorn 008-todoapp.wsgi 
+web: gunicorn main.wsgi 
 
